@@ -11,10 +11,11 @@
 
 <p align="center">
 Soy tecnóloga en Análisis y Desarrollo de Software, actualmente en proceso de formación, con interés en el desarrollo de aplicaciones web y en el fortalecimiento continuo de mis habilidades técnicas. Me caracterizo por una mentalidad analítica, capacidad para la resolución de problemas y compromiso con el aprendizaje constante de nuevas tecnologías y herramientas del sector.
-Cuento con bases sólidas en la estructuración de proyectos de software, aplicando buenas prácticas de programación, control de versiones y organización del código, lo que me permite desarrollar soluciones funcionales y mantenibles
 </p>
 
-
+<p align="center">
+Cuento con bases sólidas en la estructuración de proyectos de software, aplicando buenas prácticas de programación, control de versiones y organización del código, lo que me permite desarrollar soluciones funcionales y mantenibles.
+</p>
 
 
 
@@ -81,4 +82,3 @@ Cuento con bases sólidas en la estructuración de proyectos de software, aplica
 ---
 
 📌 *Este repositorio contiene mi presentación personal en formato de texto y servirá como base para futuros proyectos de software.*
-
