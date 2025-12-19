@@ -2,7 +2,7 @@
 **Tecnóloga en Análisis y Desarrollo de Software (en formación)**
 
 <p align="center">
-  <img src="imagen/imagen_Presentacion _Personal_1.png" width="150" alt="Gatito" />
+  <img src="imagen/imagen_Presentacion _Personal_1.png" width="400" height="400">
 </p>
 
 #💙
