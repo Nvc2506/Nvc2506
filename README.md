@@ -5,7 +5,7 @@
   <img src="imagen/imagen_Presentacion _Personal_1.png" alt="Gatito" width="400"  height="400"/>
 </p>
 
-#💙
+💙
 
 <h2>Sobre mí 📚💻✨</h2>
 
