@@ -2,14 +2,16 @@
 **Tecnóloga en Análisis y Desarrollo de Software (en formación)**
 
 <p align="center">
-  <img src="imagen/imagen_Presentacion _Personal_1.png" width="400" height="400">
+  <img src="imagen/imagen_Presentacion _Personal_1.png" alt="Gatito" width="400"  H />
 </p>
 
-💙
+#💙
+ <p align="center">
 
-Soy tecnóloga en Análisis y Desarrollo de Software, actualmente en proceso de formación, con interés en el desarrollo de aplicaciones web y en el fortalecimiento continuo de mis habilidades técnicas. Me caracterizo por una mentalidad analítica, capacidad para la resolución de problemas y compromiso con el aprendizaje constante de nuevas tecnologías y herramientas del sector.
+<h2>Sobre mí 📚💻✨</h2>
+<p>Soy tecnóloga en Análisis y Desarrollo de Software, actualmente en proceso de formación, con interés en el desarrollo de aplicaciones web y en el fortalecimiento continuo de mis habilidades técnicas. Me caracterizo por una mentalidad analítica, capacidad para la resolución de problemas y compromiso con el aprendizaje constante de nuevas tecnologías y herramientas del sector.</p>
 
-Cuento con bases sólidas en la estructuración de proyectos de software, aplicando buenas prácticas de programación, control de versiones y organización del código, lo que me permite desarrollar soluciones funcionales y mantenibles.
+<p>Cuento con bases sólidas en la estructuración de proyectos de software, aplicando buenas prácticas de programación, control de versiones y organización del código, lo que me permite desarrollar soluciones funcionales y mantenibles.</p>
 
 
 ---
@@ -46,7 +48,7 @@ Cuento con bases sólidas en la estructuración de proyectos de software, aplica
 </p>
 
 ### Herramientas y Tecnologías
-- Git y GitHub
+- GitHub
 - Visual Studio Code
 - Git Bash
 - DevTools del navegador
