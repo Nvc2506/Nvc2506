@@ -9,7 +9,7 @@ Soy tecnóloga en Análisis y Desarrollo de Software, actualmente en proceso de 
 
 Cuento con bases sólidas en la estructuración de proyectos de software, aplicando buenas prácticas de programación, control de versiones y organización del código, lo que me permite desarrollar soluciones funcionales y mantenibles.
 
-##🐈‍⬛💙
+
 ---
 
 ## 🛠️ Habilidades Técnicas
