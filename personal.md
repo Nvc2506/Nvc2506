@@ -5,7 +5,7 @@
   <img src="imagen/imagen_Presentacion _Personal_1.png" width="400" height="400">
 </p>
 
-#💙
+💙
 
 Soy tecnóloga en Análisis y Desarrollo de Software, actualmente en proceso de formación, con interés en el desarrollo de aplicaciones web y en el fortalecimiento continuo de mis habilidades técnicas. Me caracterizo por una mentalidad analítica, capacidad para la resolución de problemas y compromiso con el aprendizaje constante de nuevas tecnologías y herramientas del sector.
 
